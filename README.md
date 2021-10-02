@@ -1,2 +1,2 @@
-# Contact Infformation
+# Contact Information
 vuctor.drag@gmail.com
